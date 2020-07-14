@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 import sqlite3
+import numba
 
 
 class Main(tk.Frame):
